@@ -6,6 +6,6 @@
     "@rarkins/foo": "1.0.0"
   },
   "renovate": {
-    "updateLockFiles": false
+    "updateLockFiles": true
   }
 }
