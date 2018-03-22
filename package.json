@@ -5,5 +5,7 @@
     "chalk": "2.0.0",
     "@rarkins/foo": "1.0.0"
   },
-  "renovate": {}
+  "renovate": {
+    "updateLockFiles": false
+  }
 }
